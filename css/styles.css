@@ -117,14 +117,18 @@ header {
 /* Education
 ------------------------------------*/
 .education {
-  background-image: url(../images/10.webp);
+  background-image: url(../images/10.webp); 
   background-size: cover;
+  /* opacity: 0.6; */
   background-position: top right;
   padding-bottom: 100px;
 }
+
 .education p {
   width: 60%;
 }
+ 
+
 
 
 /* Contact Info
